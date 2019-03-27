@@ -1,6 +1,6 @@
 # 20MinsNLP 2019/04/02 Coreference Dataset
-The dataset needed for 20mins NLP 2019/04/02 coreference resolution
-Here is a link to the code of my 20mins NLP session:
+The dataset needed for 20Mins NLP 2019/04/02 coreference resolution
+Here is a link to the code of my 20Mins NLP session:
 
 https://colab.research.google.com/drive/16hxZTrJS-yvgdeTspDKju2dsVV-TyPY9
 
